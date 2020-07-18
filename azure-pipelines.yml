@@ -11,3 +11,5 @@ steps:
     repository: 'aravind85tvr/ninja'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
+    tags: |
+     dev
