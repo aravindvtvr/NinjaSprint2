@@ -8,6 +8,6 @@ steps:
 - task: Docker@2
   inputs:
     containerRegistry: 'Docker_Hub'
-    repository: 'aravind85tvr/ninja:coreapp'
+    repository: 'aravind85tvr/ninja'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
