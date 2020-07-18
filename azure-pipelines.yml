@@ -1,3 +1,10 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'Ubuntu-16.04'
+
+steps:
 - task: Docker@2
   inputs:
     containerRegistry: 'Docker_Hub'
