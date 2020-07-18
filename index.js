@@ -1,3 +1,4 @@
+const cors = require('cors');
 const connection = require ("./model/dbconnect_model");
 const express = require ("express");
 const path=require("path");
@@ -23,9 +24,9 @@ application.set("view engine","hbs")
 }); */ 
 
 
-
+application.use(cors());
 //application.set('views',path.join(__dirname,"/views/"));
 application.get("/",getServices);
 application.post("/",postServices);
 
-application.listen("3000",()=> console.log("Listening to client requests at port 3000"));
+application.listen("4000",()=> console.log("Listening to client requests at port 4000"));

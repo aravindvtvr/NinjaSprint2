@@ -11,6 +11,13 @@ router.get("/",(req,res)=>{
         {
            //res.render("list",{data : docs})
            console.log(docs);
+           console.log("\n Service Repository Operation Called:Get");
+           console.log("\n Service Repository Operation Called:Post");
+           console.log("\n Service Repository Operation Called:Put");
+           console.log("\n Service Repository Operation Called:Delete");
+           console.log("\n Service Repository Operation Called:Login");
+
+
            res.send(docs);
         }
 

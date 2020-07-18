@@ -1,0 +1,1334 @@
+Listening to client requests at port 3000
+Connected to Mongo DB
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
+[
+  {
+    _id: 5f05d9a0e28ba3c1a5ad6d4c,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'AddNumbers',
+    Version: 'AddNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05daf5e28ba3c1a5ad6d4d,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'SubstractNumbers',
+    Version: 'SubstractNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  },
+  {
+    _id: 5f05db1de28ba3c1a5ad6d4e,
+    ' Application': 'DisplayStats',
+    SGroup: 'Display',
+    Service: 'DisplayNumbers',
+    Operation: 'MultiplyNumbers',
+    Version: 'MultiplyNumbersv01',
+    Backend: 'App1',
+    protocol: 'XYZ'
+  }
+]
+Service Repository Operation Called:Get
+Service Repository Operation Called:Post
+Service Repository Operation Called:Put
+Service Repository Operation Called:Delete
+Service Repository Operation Called:Login
