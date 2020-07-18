@@ -20,5 +20,6 @@ steps:
     command: 'login'
 - task: Docker@2
   inputs:
+     repository: $(imageName)
      containerRegistry: 'Docker_Hub'
      command: 'push'
