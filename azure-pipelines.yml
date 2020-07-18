@@ -1,25 +1,6 @@
-trigger:
-- master
-
-pool:
-  vmImage: 'Ubuntu-16.04'
-
-variables:
-  imageName: 'coreapp-dev'
-
-steps:
-- task: Docker@2
-  displayName: Build an image
-  inputs:
-    repository: $(imageName)
-    command: build
-    Dockerfile: Dockerfile
 - task: Docker@2
   inputs:
     containerRegistry: 'Docker_Hub'
-    command: 'login'
-- task: Docker@2
-  inputs:
-     repository: $(imageName)
-     containerRegistry: 'Docker_Hub'
-     command: 'push'
+    repository: 'coreapp'
+    command: 'buildAndPush'
+    Dockerfile: '**/Dockerfile'
