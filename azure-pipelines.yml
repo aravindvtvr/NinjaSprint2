@@ -18,3 +18,7 @@ steps:
   inputs:
     containerRegistry: 'Docker_Hub'
     command: 'login'
+- task: Docker@2
+  inputs:
+     containerRegistry: 'Docker_Hub'
+     command: 'push'
