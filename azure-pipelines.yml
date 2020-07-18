@@ -2,5 +2,5 @@
   inputs:
     containerRegistry: 'Docker Hub'
     repository: 'CoreApp'
-    command: 'buildAndPush'
+    command: 'build'
     Dockerfile: '**/Dockerfile'
