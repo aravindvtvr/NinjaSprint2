@@ -16,7 +16,7 @@ router.get("/",(req,res)=>{
            console.log("\n Service Repository Operation Called:Put");
            console.log("\n Service Repository Operation Called:Delete");
            console.log("\n Service Repository Operation Called:Login");
-           log.info("Service Repository Operation Called:Get");
+           log.info("Service Repository Operation Called-Get");
 
            res.send(docs);
         }
