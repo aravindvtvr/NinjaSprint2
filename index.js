@@ -10,7 +10,7 @@ const postServices=require("./controllers/postServices");
 
 
 const application= express();
-
+//test comment
 /*application.engine("hbs",expresshandlebars({handlebars: allowInsecurePrototypeAccess(Handlebars),
     extname: "hbs",
     defaultlayout : "mainlayout",
